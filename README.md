@@ -1,7 +1,7 @@
 # Data Analysis Project Part 2: Take binary decisions using statistical analysis
 Part two of two; make a data and statistical analysis of abalones population in California; keep in mind this is a basisc tatistical analysis for academic purposes.
 Can read the full document here:
-[Abalones Part 1 PDF Document](https://github.com/JavierSada/Abalones-data-analysis-P2/blob/main/Support/Data%20Analysis%20Projectos%20%232.pdf)
+[Abalones Part 2 PDF Document](https://github.com/JavierSada/Abalones-data-analysis-P2/blob/main/Support/Data%20Analysis%20Projectos%20%232.pdf)
 
 <h2 align="left">Abstract</h2>
 
